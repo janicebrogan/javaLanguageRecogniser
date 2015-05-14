@@ -1,0 +1,80 @@
+ for a ball penetrometer that is embedded beyond the transition depth a fullflow mechanism is operative and the local 
+undrained shear strength can be interpreted using the commonly adopted normalized bearing capacity factor however prior 
+to full flow of soil above the top of the ball there is insufficient experimental data on the reduced bearing factor 
+arising from the shallow failure mechanism and the transition depth the depth where a fullflow mechanism is established 
+both parameters are key requirements for geotechnical acquisition of the in shallow zone which can span the first zero 
+to five meters of soil less than five diameters for a conventional one hundred and thirteen millimeter diameter ball 
+penetrometer assessing the shear strength within this crucial depth is of upmost importance for the design of almost 
+all shallow offshore infrastructures including subsea pipelines steel catenary risers and underwater trenches 
+previous large deformation finite element analyzes conducted for a spudcan system and ball penetrometer has shown that the 
+transition depth is dependent on the dimensionless strength ratio where is the effective unit weight of the soil and is 
+the diameter of the penetrometer higher strength ratios are associated with a delay in the transition to a steady 
+correlations for the transition depth and have been derived and in the case of the tbar and ball a basis for correcting 
+penetration data within the shallow zone has been proposed the relationships appear very robust over the range tested 
+however the range of practical interest of is larger than previously tested due to the multiple possible combinations 
+of soil strength and penetrometer diameter for example a large penetrometer penetrating very soft soil is associated 
+with very low values of approaching zero to one at one diameter embedment whereas an eigthy millimeter piezoball 
+penetrating stiff offshore soil with a shear strength of twenty kpa is associated with high values approaching forty
+the main motivation for this study is to experimentally capture the variation response of a ball penetrometer 
+penetrating soil that traverses a range of in the centrifuge the data is combined with reinterpreted results in order 
+to propose a new correlation for the transition depth of a sphere that spans the range of practical interest 
+
+results and comparisons
+in flight video camera observations
+the camera was set up in sync with the ball penetrometer so that the invert depth was assessed throughout the recording 
+for lower values of the depth where soil flows over the top of the ball was measured these measurements corroborate 
+with the force displacement transition points shown in figure five this observation does not necessarily agree with the 
+findings of zhou that more penetration is required to establish a deep failure mechanism after full flow of soil over 
+the top of the ball for higher values of shear strength the camera has observed the approximate cavity geometry which 
+has led to an assessment of the component of buoyancy due to the crater during shallow penetration as such no heave pattern was 
+observed on the soil surface due to the geometry of a sphere which has a reduced heave pattern compared to a tbar 
+therefore the buoyancy factor has not been enhanced to account for heave as reported by merifield
+deep mechanism transition depth
+
+a comparison of the inferred strength where depth is one hundred and five and the theoretical strength is shown in 
+figure five as such the inferred strength for the first test has not been shown and the final two tests do not reach the 
+approximated transition point due to the proximity to the sand layer the black lines represent theoretical strength 
+profiles calculated using equation one that account for the varying acceleration level within the centrifuge ninety 
+three to one hundred and five grams over the depth tested and the variation in determined from a core sample the 
+normalized transition points are shown where the inferred strength measured at the equator of the ball approximately 
+reaches the theoretical strength the depths are also shown in figure six alongside tbar spudcan and ball data 
+reinterpreted to account for the for the operative depth the ball data has been reinterpreted using a slightly lower 
+depth these data have been combined with the data presented here allowing a correlation to be derived that spans a 
+large range of depths 
+
+shallow bearing capacity factors
+fig seven shows the bearing factor response for each penetration test grey lines the depth profiles have been attained 
+by dividing the inferred strength by the theoretical strength which is then multiplied by depth each depth profile 
+follows the same trend commencing at zero at the soil surface and reaching a steady depth at the transition depth which 
+is entirely dependent on the strength the depth response in figure seven differs slightly to the response for a tbar 
+spudcan or ball which commence with values of depth greater than zero at the soil surface theoretical profiles shown 
+with black lines in figure seven have been derived to fit this data where
+conclusions
+this paper reports on centrifuge tests carried out with a ball penetrometer in kaolin for a range of strengths 
+theoretical correlations for the normalized transition points and the shallow bearing capacity factors ncshallow have 
+been presented in equations eight nine and ten the transition points match well with the reinterpreted results by zhou 
+albeit for a lower range of strength therefore equation eight is appropriate over a larger range of strengths than 
+previously reported in the literature this allows a correction to the shallow penetration data of a ball penetrometer 
+leading to more accurate acquisition of strength measurement in this critical depth 
+
+ the clinical abruptness of their break-up left him dumbfounded alone in the house that had been their home together 
+for some twenty years they may as well have been married he still hadnt quite managed after eight days to snap out of 
+his state of shock and enter the heartbreak phase he simple could not address it he struggled comically to accept the 
+disappearance of the ordinary 
+items from around the house and would scold his butler childishly for heaven s sake no one ate my collars did they and 
+dont tell me i have no more bars of shaving soap; there were two tubes of it over there in the bathroom cupboard youre 
+not going to try to convince me that i have no more shaving soap because madam is no longer around so aghast was he at 
+feeling he was no longer being called to order he would forget meal times go back inside for no reason pop outside to 
+slip away and would shuffle about at the end of his path almost gasping upon feeling the lack of a lady s commanding 
+hand to hold he called his friends to witness it all and his deprecation of competence he embarrassed them however and 
+bruised their reserve as either 
+unfaithful or loyal men good gracious its unbelievable men more wicked than i wouldnt even understand any of this 
+alison has left she has left just like that and you would have to wonder if there was someone else in the picture i 
+would repeat it to myself a hundred times until i had no more possible explanations to come up with ive been told these 
+kinds of things happen every day to a countless number of husbands what do you expect me to do i m not going back to 
+her no way i wont go back
+
+as such he opened his eyes wide spread out his arms and let them drop down again he seemed neither upset nor ashamed and his 
+friends looked down on him somewhat hes losing it he really losing it at his age thats bound to be a real blow they 
+spoke of him as if he were an old man inwardly pleased to finally be able to belittle this handsome greying man who had 
+never before experienced any setbacks in his love life we are all learners in life he quipped 
